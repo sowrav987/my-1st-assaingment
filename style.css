@@ -1,8 +1,8 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin-top: 5%;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .orange-color{
   color: orange;
@@ -58,4 +58,15 @@ h1{
 }
 .blue{
     background-color: rgb(16, 74, 110);
+}
+.develop{
+    width: 100%;
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+    
+    
+}
+.right{
+    
 }
