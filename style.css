@@ -29,4 +29,33 @@ h1{
 }
 .half-width{
     width: 50%;
+}s
+#center{
+    text-align: center;
+
+}
+.raddias{
+   border-radius: 20px;
+}
+
+
+.half-width-three{
+    width: 30%;
+}
+.image-left{
+    height: 30%;
+    width: 30%;
+}
+.pad{
+    box-sizing: border-box;
+    padding: 15px;
+}
+.sky{
+    background-color: lightblue;
+}
+.green{
+    background-color:lightgreen;
+}
+.blue{
+    background-color: rgb(16, 74, 110);
 }
