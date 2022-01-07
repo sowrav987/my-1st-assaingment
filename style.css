@@ -29,7 +29,7 @@ h1{
 }
 .half-width{
     width: 50%;
-}s
+}
 #center{
     text-align: center;
 
@@ -67,6 +67,15 @@ h1{
     
     
 }
-.right{
-    
+.fixed img{
+    width: 100%;
+    padding: 5%;
+}
+.round{
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size:30%;
+    padding-right: 10%;
+    padding-bottom: 40%;
 }
